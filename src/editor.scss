@@ -1,0 +1,19 @@
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+ .wp-block-create-block-guten-slider .block-editor-inner-blocks .block-editor-block-list__block {
+    width: 300px;
+    margin: 10px;
+    display: inline-block;
+}
+.wp-block-create-block-guten-slider{
+    display: inline-block;
+    overflow: auto;
+    overflow-y: hidden;
+    max-width: 100%;
+    margin: 0 0 1em;
+    white-space: nowrap;
+}

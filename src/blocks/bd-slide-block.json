@@ -1,0 +1,11 @@
+{
+	"name": "create-block/bd-slide",
+	"title": "BD Slide",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Example static block scaffolded with Create Block tool.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "bd-slide"
+}
